@@ -1,7 +1,7 @@
 import React from "react";
 import { TodoCount } from "./TodoCounter";
 import { TodoSearch } from "./TodoSearch";
-import { TodoList } from "./TodoList";
+import { TodoList } from "./TodoList/TodoList";
 import { TodoItem } from "./TodoItem";
 import { CreateTodoButton } from "./CreateButtonTodo";
 

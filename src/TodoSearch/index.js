@@ -3,7 +3,7 @@ import "./TodoSearch.css";
 function TodoSearch({ searchValue, setSearchValue }) {
   return (
     <input
-      placeholder="Cebolla"
+      placeholder="Buscar tarea"
       className="TodoSearch"
       value={searchValue}
       onChange={(event) => {
